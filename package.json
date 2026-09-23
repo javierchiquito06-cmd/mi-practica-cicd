@@ -1,0 +1,14 @@
+{
+  "name": "mi-practica-cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.test.js",
+    "build": "echo \"Construyendo artefactos de producción...\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
